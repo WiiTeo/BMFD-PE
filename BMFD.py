@@ -18,8 +18,6 @@ else:
     configFile.write("# BMFD BotList")
     configFile.close()
 
-# This part is just for fun.
-
 def BMFDText():
     print("""
 
