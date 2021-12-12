@@ -2,7 +2,7 @@
 
 Original Creator of BMFD 1.0 : TeamCoda-SYS
 
-Original Publisher of BMFD : CreeperGreg75
+Original Publisher of BMFD : CreeperGreg95
 
 Creator of BMFD Python Edition : WiiTeo
 
